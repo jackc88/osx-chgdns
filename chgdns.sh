@@ -4,7 +4,8 @@
 
 # Passing the argument "off" will use $dnson or default to $dnsoff
 dnsoff="8.8.4.4 1.0.0.1"
-dnson="192.168.1.1"
+#dnson="192.168.1.1"
+dnson="Empty" # Default to DNS from DHCP
 
 # Uncomment the Interface to make the change on
 #int="Ethernet"
